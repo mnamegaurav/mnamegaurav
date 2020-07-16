@@ -1,14 +1,12 @@
-### Hi there, This is Gaurav 👋
+### Hi there, This is Gaurav Sharma 👋
 
-<!--
-**hamhaingaurav/hamhaingaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a Full Stack Django Developer having 6 months of professional experience in a Startup at IIT Kanpur.
+- 🌱 I’m currently learning ML and AWS and trying to dive into it.
+- 👯 I’m enthusiastic about Linux and Love using it, Personally I love Arch Linux and using it for almost 2.5 years.
+- 😄 It is good to see you here on my profile, I will be glad if you can star some of my repositories.
 
-Here are some ideas to get you started:
+### Thanks Alot for coming to my profile.
 
--->
-- 🔭 I’m a Full Stack Django Developer.
-- 🌱 I’m currently learning ML and AWS
-- 👯 I’m enthusiastic about Linux and Love using it.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
