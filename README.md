@@ -1,7 +1,7 @@
 ### Hi there, This is Gaurav Sharma 👋
 
 - 🔭 I’m a Full Stack Django Developer having 6 months of professional experience in a Startup at IIT Kanpur.
-- 🌱 I’m currently learning ML and AWS and trying to dive into it.
+- 🌱 I’m currently learning React.js and getting better in it day by day.
 - 👯 I’m enthusiastic about Linux and Love using it, Personally I love Arch Linux and using it for almost 2.5 years.
 - 😄 It is good to see you here on my profile, I will be glad if you can star some of my repositories.
 
