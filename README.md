@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Skills 📌
-<code><img height="48" src=""></code>
+### Skills 🤖
+<code><img height="48" src="https://img.icons8.com/nolan/64/python.png"></code>
 
 ![hamhaingaurav's github stats](https://github-readme-stats.vercel.app/api?username=hamhaingaurav&show_icons=true&theme=radical)
