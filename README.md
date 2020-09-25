@@ -1,4 +1,4 @@
-## Hi there, This is Gaurav Sharma 👋
+#### Hi there, This is Gaurav Sharma 👋
 
 - 🔭 I’m a Full Stack Django Developer and a Microblogger. Please checkout my blogs here <a href="https://www.linkedin.com/in/hamhaingaurav/detail/recent-activity/shares/">LinkedIn</a>
 - 🌱 My tech stack is Python/Django + ReactJS + PostgreSQL.
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Skills 🤖
+#### Skills 🤖
 <code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/django.png" /></code>
 <code><img height="48" src="https://img.icons8.com/nolan/64/javascript.png" /></code>
@@ -28,7 +28,7 @@
 <code><img height="48" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
 
-# Stats 👨‍💻
+#### Stats 👨‍💻
 ![hamhaingaurav's github stats](https://github-readme-stats.vercel.app/api?username=hamhaingaurav&show_icons=true&theme=radical)
 
-## Thanks Alot for coming to my profile.
+##### Thanks Alot for coming to my profile.
