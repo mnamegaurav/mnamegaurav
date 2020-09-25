@@ -1,6 +1,6 @@
 ## Hi there, This is Gaurav Sharma 👋
 
-- 🔭 I’m a Full Stack Django Developer and a Microblogger.
+- 🔭 I’m a Full Stack Django Developer and a Microblogger. Please checkout my blogs here <a href="https://www.linkedin.com/in/hamhaingaurav/detail/recent-activity/shares/">LinkedIn</a>
 - 🌱 My tech stack is Python/Django + ReactJS + PostgreSQL.
 - 👯 I’m in love with GNU Linux using it on my regular system for almost 3 years BTW I love Arch Linux.
 - 😄 It is good to see you here on my profile, I will be glad if you can star some of my repositories.
