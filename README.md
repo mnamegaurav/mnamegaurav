@@ -1,17 +1,11 @@
 #### Hi there, This is Gaurav Sharma 👋
 
-- 🔭 I’m a Full Stack Django Developer and a Microblogger. Please checkout my blogs here <a href="https://www.linkedin.com/in/hamhaingaurav/detail/recent-activity/shares/">LinkedIn</a>
+- 🔭 I’m a Full Stack Developer and a Microblogger. You can checkout few of mine insightful posts here on <a href="https://www.linkedin.com/in/hamhaingaurav/detail/recent-activity/shares/">LinkedIn</a>
 - 🌱 My tech stack is Python/Django + ReactJS + PostgreSQL.
 - 👯 I’m in love with GNU Linux, using it on my regular system for almost 3 years BTW I love Arch Linux.
 - 😄 It is good to see you here on my profile.
 
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://hamhaingaurav.github.io/)
 
 #### Skills 🤖
 <code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
@@ -29,6 +23,8 @@
 <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
 
 #### Stats 👨‍💻
-![hamhaingaurav's github stats](https://github-readme-stats.vercel.app/api?username=hamhaingaurav&show_icons=true&theme=radical)
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=hamhaingaurav&show_icons=true&theme=radical'/>
 
-##### Thanks Alot for coming to my profile.
+#### Top Languages 👨‍💻
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=hamhaingaurav&show_icons=true&theme=radical'/>
+ 
