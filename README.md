@@ -5,16 +5,16 @@
   <img align="left" alt="Gaurav's Discord" width="35px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
 </a>
 <a href="https://blog.devjunction.in/">
-  <img align="left" alt="DevJunction Blog" width="35px" src="https://img.icons8.com/plasticine/100/000000/blog.png" />
+  <img align="left" alt="DevJunction Blog" width="35px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
 <a href="https://www.youtube.com/channel/UCr8iAGGDg9gFosQWQpcKfRA">
-  <img align="left" alt="DevJunction Youtube Channel" width="35px" src="https://img.icons8.com/color/48/000000/youtube--v2.png" />
+  <img align="left" alt="DevJunction Youtube Channel" width="45px" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" />
 </a>
 <a href="https://www.linkedin.com/in/hamhaingaurav/">
   <img align="left" alt="Gaurav's LinkedIn" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/devjunction.in/">
-  <img align="left" alt="Gaurav's Instagram" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />
+  <img align="left" alt="Gaurav's Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 
 <br />
