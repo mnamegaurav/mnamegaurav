@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=mnamegaurav.mnamegaurav)
+<br />
 <a href="https://mnamegaurav.github.io/" target="_blank">
   <img align="left" alt="DevJunction Blog" width="35px" src="https://mnamegaurav.github.io/assets/img/profile.jpg" />
 </a>
