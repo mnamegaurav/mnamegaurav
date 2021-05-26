@@ -1,27 +1,27 @@
-<a href="https://mnamegaurav.github.io/">
+<a href="https://mnamegaurav.github.io/" target="_blank">
   <img align="left" alt="DevJunction Blog" width="35px" src="https://mnamegaurav.github.io/assets/img/profile.jpg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/XTW52Kt" target="_blank">
   <img align="left" alt="Gaurav's Discord" width="35px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
 </a>
-<a href="https://blog.devjunction.in/">
+<a href="https://blog.devjunction.in/" target="_blank">
   <img align="left" alt="DevJunction Blog" width="35px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
-<a href="https://www.youtube.com/channel/UCr8iAGGDg9gFosQWQpcKfRA">
+<a href="https://www.youtube.com/channel/UCr8iAGGDg9gFosQWQpcKfRA" target="_blank">
   <img align="left" alt="DevJunction Youtube Channel" width="45px" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" />
 </a>
-<a href="https://www.linkedin.com/in/hamhaingaurav/">
+<a href="https://www.linkedin.com/in/hamhaingaurav/" target="_blank">
   <img align="left" alt="Gaurav's LinkedIn" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/devjunction.in/">
+<a href="https://www.instagram.com/devjunction.in/" target="_blank">
   <img align="left" alt="Gaurav's Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 
 <br />
 
-## Hi there, This is Gaurav Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, This is Gaurav Sharma
 
- - 🔭 I’m a Full Stack Developer and a Content Creator. You can checkout few of mine insightful posts here on <a href="https://www.linkedin.com/in/mnamegaurav/detail/recent-activity/shares/">LinkedIn</a>
+ - 🔭 I am a Full Stack Developer, Teacher, Founder of DevJunction and an all time self motivated learner, majorly worked with Django and ReactJS You can checkout few of mine insightful posts here on <a href="https://www.linkedin.com/in/mnamegaurav/detail/recent-activity/shares/">LinkedIn</a>
  - 🌱 I can cook Web Applications in Python/Django + React.
  - 👯 I’m in love with GNU Linux, using it on my regular system for almost 3 years BTW I love Arch Linux.
  - 😄 Currently I am working on my own Ed-Tech platform named DevJunction.
