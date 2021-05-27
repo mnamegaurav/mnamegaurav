@@ -1,27 +1,28 @@
-![](https://visitor-badge.glitch.me/badge?page_id=mnamegaurav.mnamegaurav)
-<br />
-<a href="https://mnamegaurav.github.io/" target="_blank">
-  <img align="left" alt="DevJunction Blog" width="35px" src="https://mnamegaurav.github.io/assets/img/profile.jpg" />
-</a>
-<a href="https://discord.gg/XTW52Kt" target="_blank">
-  <img align="left" alt="Gaurav's Discord" width="35px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
-</a>
-<a href="https://blog.devjunction.in/" target="_blank">
-  <img align="left" alt="DevJunction Blog" width="35px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
-</a>
-<a href="https://www.youtube.com/channel/UCr8iAGGDg9gFosQWQpcKfRA" target="_blank">
-  <img align="left" alt="DevJunction Youtube Channel" width="45px" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" />
-</a>
-<a href="https://www.linkedin.com/in/hamhaingaurav/" target="_blank">
-  <img align="left" alt="Gaurav's LinkedIn" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/devjunction.in/" target="_blank">
-  <img align="left" alt="Gaurav's Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
-
-<br />
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, This is Gaurav Sharma
+
+<a href="https://www.youtube.com/channel/UCr8iAGGDg9gFosQWQpcKfRA">
+  <img align="left" alt="DevJunction Youtube Channel" src="https://img.shields.io/youtube/channel/views/UCr8iAGGDg9gFosQWQpcKfRA?color=red&label=Views&logo=youtube&logoColor=red&style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/hamhaingaurav/">
+  <img align="left" alt="Gaurav's LinkedIn" src="https://img.shields.io/badge/LinkedIn-11K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Gaurav's Discord" src="https://img.shields.io/discord/776033204171046952?color=mint&label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://blog.devjunction.in/">
+  <img align="left" alt="DevJunction Blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/devjunction.in/">
+  <img align="left" alt="Gaurav's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+  
+<br/>
+<br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=mnamegaurav&style=flat-square&label=Profile+Visitors&color=blueviolet)
+
+<br/>
 
  - 🔭 I am a Full Stack Developer, Teacher, Founder of DevJunction and an all time self motivated learner, majorly worked with Django and ReactJS You can checkout few of mine insightful posts here on <a href="https://www.linkedin.com/in/mnamegaurav/detail/recent-activity/shares/">LinkedIn</a>
  - 🌱 I can cook Web Applications in Python/Django + React.
@@ -31,94 +32,26 @@
 
 ## Skills 🤖
 
-<table>
-  <tr>
-    <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/nolan/64/python.png" />
-      <br>Python
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" />
-      <br>JavaScript
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/48/000000/django.png" />
-      <br>Django
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://www.django-rest-framework.org/img/logo.png" />
-      <br>Django Rest Framework
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/dusk/50/000000/react.png" />
-      <br>React
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/50/000000/redux.png" />
-      <br>Redux
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-      <br>PostgreSQL
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/fluent/64/000000/mysql-logo.png" />
-      <br>MySQL
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/48/000000/redis.png" />
-      <br>Redis
-    </td>
-   </tr>
-  <tr>
-   <td align="center" width="96">
-       <img height="48" src="https://img.stackshare.io/service/1075/celery.png" />
-      <br>Celery
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/48/000000/firebase.png" />
-      <br>FCM
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/dusk/50/000000/api.png" />
-      <br>Rest API
-   </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/nolan/48/linux--v2.png" />
-      <br>Linux
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
-      <br>AWS EC2 & RDS
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-      <br>Bootstrap
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/50/000000/material-ui.png" />
-      <br>Material UI
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/dusk/50/000000/css3.png" />
-      <br>CSS
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/dusk/50/000000/html-5.png" />
-      <br>HTML
-    </td>
-   </tr>
-  <tr>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/color/48/000000/nginx.png" />
-      <br>Nginx
-    </td>
-   <td align="center" width="96">
-       <img height="48" src="https://img.icons8.com/nolan/64/sql.png" />
-      <br>SQL
-    </td>
-  </tr>
- </table>
+<code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
+<code><img height="48" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/48/000000/django.png" /></code>
+<code><img height="48" src="https://www.django-rest-framework.org/img/logo.png" /></code>
+<code><img height="48" src="https://img.icons8.com/dusk/50/000000/react.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/50/000000/redux.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/48/000000/postgreesql.png" /></code>
+<code><img height="48" src="https://img.icons8.com/fluent/64/000000/mysql-logo.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/48/000000/redis.png" /></code>
+<code><img height="48" src="https://img.stackshare.io/service/1075/celery.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/48/000000/firebase.png" /></code>
+<code><img height="48" src="https://img.icons8.com/dusk/50/000000/api.png" /></code>
+<code><img height="48" src="https://img.icons8.com/nolan/48/linux--v2.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/50/000000/material-ui.png" /></code>
+<code><img height="48" src="https://img.icons8.com/dusk/50/000000/css3.png" /></code>
+<code><img height="48" src="https://img.icons8.com/dusk/50/000000/html-5.png" /></code>
+<code><img height="48" src="https://img.icons8.com/color/48/000000/nginx.png" /></code>
+<code><img height="48" src="https://img.icons8.com/nolan/64/sql.png" /></code>
  
  If you like what I do, maybe consider buying me a coffee.
 
