@@ -10,7 +10,7 @@
     <img align="left" alt="DevJunction Youtube Channel" title="Views to my Youtube Channel" src="https://img.shields.io/youtube/channel/views/UCr8iAGGDg9gFosQWQpcKfRA?color=red&label=Views&logo=youtube&logoColor=red&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/hamhaingaurav/">
-    <img align="left" alt="Gaurav's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-11K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img align="left" alt="Gaurav's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-12K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://discord.gg/XTW52Kt">
     <img align="left" alt="Gaurav's Discord" title="My Discord Server" src="https://img.shields.io/discord/776033204171046952?color=mint&label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
