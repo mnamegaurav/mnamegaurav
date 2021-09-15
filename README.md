@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/hamhaingaurav/">
     <img align="left" alt="Gaurav's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-13K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/XTW52Kt">
+  <a href="https://discord.gg/9YnpgB8Rv5">
     <img align="left" alt="Gaurav's Discord" title="My Discord Server" src="https://img.shields.io/discord/776033204171046952?color=mint&label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://blog.devjunction.in/">
