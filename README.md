@@ -51,6 +51,7 @@
 <p align="center">
   <code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
   <code><img height="48" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" /></code>
+  <code><img height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" /></code>
   <code><img height="48" src="https://img.icons8.com/color/48/000000/django.png" /></code>
   <code><img height="48" src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" /></code>
   <code><img height="48" src="https://img.icons8.com/dusk/50/000000/react.png" /></code>
