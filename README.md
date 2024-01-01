@@ -1,4 +1,4 @@
-![Github Profile](https://github.com/mnamegaurav/mnamegaurav/assets/34805677/1a208e08-4fbd-4200-ab2c-8cce62440411)
+![Github Profile](https://github.com/mnamegaurav/mnamegaurav/assets/34805677/aa71abcb-3805-4aca-b48c-d0ad81434a44)
 
 
 <h1 align="center">
