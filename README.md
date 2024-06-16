@@ -1,10 +1,10 @@
-![Github Profile](https://github.com/mnamegaurav/mnamegaurav/assets/34805677/aa71abcb-3805-4aca-b48c-d0ad81434a44)
+![Github Profile](https://github.com/mnamegaurav/mnamegaurav/assets/34805677/b7f87220-6f2d-4a95-82d3-e7db0466969f)
 
 
-<h1 align="center">
-  Hi there, This is Gaurav Sharma!
+<h2 align="center">
+  Hi there, This is Gaurav!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h2>
 
 <br />
 
@@ -13,11 +13,11 @@
     <img align="left" alt="DevJunction Youtube Channel" title="Views to my Youtube Channel" src="https://img.shields.io/youtube/channel/views/UCr8iAGGDg9gFosQWQpcKfRA?color=red&label=Views&logo=youtube&logoColor=red&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/mnamegaurav/">
-    <img align="left" alt="Gaurav's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-20K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img align="left" alt="Gaurav's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-22K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/9YnpgB8Rv5">
+<!--   <a href="https://discord.gg/9YnpgB8Rv5">
     <img align="left" alt="Gaurav's Discord" title="My Discord Server" src="https://img.shields.io/discord/776033204171046952?color=mint&label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/mnamegaurav/">
     <img align="left" alt="Gaurav's Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -29,11 +29,11 @@
 
 <br/>
 
- - 🔭 An Independant Full Stack Developer, Freelancer, Educator. <a href="https://www.linkedin.com/in/mnamegaurav/detail/recent-activity/shares/">LinkedIn</a>
- - 🌱 Building Full Stack Web Applications in Python/Django+NextJS.
- - 👯 In love with GNU Linux, using it on my regular system for years, BTW I love Arch Linux.
- - 😄 Living my life, enjoying my freelancing and sharing knowledge on LinkedIn.
- - 🚴 Cyclist and love exploring new places.
+ - 🔭 A Full Stack Software Engineer & Educator. <a href="https://www.linkedin.com/in/mnamegaurav/detail/recent-activity/shares/">LinkedIn</a>
+ - 🌱 Expert in Building Full Stack Web Applications in JavaScript(TypeScript) & Python.
+ - 👯 In love with GNU Linux(In EMA with MacOS), using it on my regular system for years, BTW I love Arch Linux.
+ - 😄 Love traveling, talking to people and love sharing my knowledge on LinkedIn.
+ - 🚴 Cyclist and a health freak.
 
 
 <br />
